@@ -7,7 +7,7 @@
 		//$name;
 	//}
 	
-		//$name = "James Bond,";
+		$name = "James Bond,";
 		echo "Hello," . $name;
 			?>
 	</div>
